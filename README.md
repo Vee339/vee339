@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hello folks👋
+### I am a **web developer** and currently learning ReactJS
+#### Looking to contribute to open source projects.
+
+*Some additional info:*
+```js
+const name = "Veerpal Kaur";
+const citizenship = "IN";
+const age = 21;
+const hobbies = ["Gardening", "Reading", "Coding"];
+```
+
 
 <!--
 **Vee339/vee339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
