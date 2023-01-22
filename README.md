@@ -2,13 +2,6 @@
 ### I am a **web developer** and currently learning ReactJS
 #### Looking to contribute to open source projects.
 
-*Some additional info:*
-```js
-const name = "Veerpal Kaur";
-const citizenship = "IN";
-const age = 21;
-const hobbies = ["Gardening", "Reading", "Coding"];
-```
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vee339&hide=stars&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vee339&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
