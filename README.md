@@ -10,6 +10,7 @@ const age = 21;
 const hobbies = ["Gardening", "Reading", "Coding"];
 ```
 
+[![Veerpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee339&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Vee339/vee339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
